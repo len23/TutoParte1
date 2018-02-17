@@ -13,5 +13,10 @@ namespace SitioWebCompletoParte_1.Controllers
         {
             return View();
         }
+
+        public ActionResult ListaNoticias()
+        {
+            return View();
+        }
     }
 }

@@ -202,6 +202,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Plantillas\_PlantillaPeriodico.cshtml" />
     <Content Include="Views\Periodico\Index.cshtml" />
+    <Content Include="Views\Periodico\ListaNoticias.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
